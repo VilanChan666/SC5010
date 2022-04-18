@@ -6,7 +6,7 @@ Our goals for this project are as follows:
 - To determine the best features (variables) which highly affect the customer's response
 - Suggest specific marketing strategies, promotions, or marketing materials to the company to maximize their revenue or optimizing marketing campaigns.
 
-1. [Data Extraction]https://github.com/VilanChan666/SC5010/blob/main/Exercise8_Solutions_U2020092L.ipynb
+1.[Data Extraction] (https://github.com/VilanChan666/SC5010/blob/main/Exercise8_Solutions_U2020092L.ipynb)
 
 ## Algorithms/Libraries
 - Pandas
