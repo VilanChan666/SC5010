@@ -6,7 +6,14 @@ Our goals for this project are as follows:
 - To determine the best features (variables) which highly affect the customer's response
 - Suggest specific marketing strategies, promotions, or marketing materials to the company to maximize their revenue or optimizing marketing campaigns.
 
-1. [Data Extraction](https://github.com/VilanChan666/SC5010/blob/main/Exercise8_Solutions_U2020092L.ipynb)
+## Flow of Our Program : (You can view our source code directly through here)
+1. [Data Preparation](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
+2. [Exploratory Data Analysis](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
+3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
+4. [Multi Variate Decision Tree](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
+5. [Random Forest Classifier](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
+5. [Extreme Gradient Boosting Classifier](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
+5. [Summary and Conclusion](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
 
 ## Algorithms/Libraries
 - Pandas
@@ -22,4 +29,4 @@ This slides is a summary of our project. It covers the overall aim of our projec
 ### CSV_Folders
 This folder contains all the CSV files that we implemented throughout this project.
 
-### Data Preparation
+
