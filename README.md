@@ -1,5 +1,7 @@
 # SC5010 Data Science Project - Marketing Analysis
 
+![image](https://www.digitalvidya.com/wp-content/uploads/2019/03/Marketing-Analytics.jpg)
+
 Our goals for this project are as follows:
 
 - To create a robust model to predict whether a customer's response(accept or decline) with the given attributes
