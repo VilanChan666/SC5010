@@ -7,7 +7,7 @@ Our goals for this project are as follows:
 - Suggest specific marketing strategies, promotions, or marketing materials to the company to maximize their revenue or optimizing marketing campaigns.
 
 ## Flow of Our Program : (You can view our source code directly through here)
-1. [Data Preparation](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
+1. [Data Preparation](https://github.com/nicklimmm/movie-analysis/blob/main/Data Preparation.ipynb)
 2. [Exploratory Data Analysis](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
 3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
 4. [Multi Variate Decision Tree](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
