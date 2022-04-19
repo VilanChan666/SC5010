@@ -9,11 +9,11 @@ Our goals for this project are as follows:
 ## Flow of Our Program : (You can view our source code directly through here)
 1. [Data Preparation](https://github.com/VilanChan666/SC5010/blob/main/Data%20Preparation.ipynb)
 2. [Exploratory Data Analysis](https://github.com/VilanChan666/SC5010/blob/main/Exploratory%20Data%20Analysis.ipynb)
-3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
-4. [Multi Variate Decision Tree](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
-5. [Random Forest Classifier](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
-5. [Extreme Gradient Boosting Classifier](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
-5. [Summary and Conclusion](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
+3. [Data Resampling and Splitting](https://github.com/VilanChan666/SC5010/blob/main/Data%20Resampling%20and%20Splitting.ipynb)
+4. [Multi Variate Decision Tree](https://github.com/VilanChan666/SC5010/blob/main/DecTree.ipynb)
+5. [Random Forest Classifier](https://github.com/VilanChan666/SC5010/blob/main/Random%20Forest%20Classifier.ipynb)
+5. [Extreme Gradient Boosting Classifier](https://github.com/VilanChan666/SC5010/blob/main/Extreme%20Gradient%20Boosting%20(XGBoost)%20Classifier.ipynb)
+5. [Summary and Conclusion](https://github.com/VilanChan666/SC5010/blob/main/Summary%20and%20Conclusions.ipynb)
 
 ## Algorithms/Libraries
 - Pandas
