@@ -21,10 +21,14 @@ Our goals for this project are as follows:
 - Random Forest Classifier
 - Extreme Gradient Boosting Classifier
 
+## Learning Outcomes
+1.
+2.
+3.
+
+
 ### Presentation Slides
 This slides is a summary of our project. It covers the overall aim of our project, from data preparation all the way up to conclusion.
-
-
 
 ### CSV_Folders
 This folder contains all the CSV files that we implemented throughout this project.
