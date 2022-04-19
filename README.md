@@ -8,7 +8,7 @@ Our goals for this project are as follows:
 
 ## Flow of Our Program : (You can view our source code directly through here)
 1. [Data Preparation](https://github.com/VilanChan666/SC5010/blob/main/Data%20Preparation.ipynb)
-2. [Exploratory Data Analysis](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
+2. [Exploratory Data Analysis](https://github.com/VilanChan666/SC5010/blob/main/Exploratory%20Data%20Analysis.ipynb)
 3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
 4. [Multi Variate Decision Tree](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
 5. [Random Forest Classifier](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
