@@ -24,9 +24,12 @@ Our goals for this project are as follows:
 - Extreme Gradient Boosting Classifier
 
 ## Learning Outcomes
-1.
-2.
-3.
+1. Implementation of Machine Learning (Classification) Models
+2. New Machine Learning (Classification) Model - XGBoost
+3. Hyperparameter Optimization via GridSearchCV
+4. Data Pre-Processing: One-hot Encoding, SMOTE ENN resampling
+5. Threshold tuning via ROC and Precision-Recall curve
+6. Evaluation based on several metrics (Balanced accuracy, PRAUC, ROCAUC, F1, Precision, Recall)
 
 
 ### Presentation Slides
